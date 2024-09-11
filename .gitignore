@@ -1,0 +1,6 @@
+# Ignorar archivos html iniciales
+nosotros.html
+
+# Ignorar otros archivos
+settings.json
+.DS_Store
